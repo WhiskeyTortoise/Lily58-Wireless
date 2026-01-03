@@ -6,6 +6,7 @@
 # `artifact-name` to assign a name to distinguish build outputs from each other:
 ---
 
+include:
   # reset_settings
   - board: nice_nano_v2
     shield: settings_reset
